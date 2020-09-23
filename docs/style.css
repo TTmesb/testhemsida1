@@ -1,8 +1,35 @@
-.trihard {
-    background-size: cover;
+.rubrik {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    text-align: center;
+    font-size: 95px;
+    color: red;   
+
 }
+.kapitelrubrik {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    position: center;
+    text-align: center;
+    font-size: 35px;
+    color: red;    
+}
+.kapitel {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    text-align: center;
+    font-size: 18px;
+    color: red;    
+
+} 
 body {
-    background-image: url(/docs/img/widepeepohappy.png);
-    background-size: 100%;
-    background-position: fixed;
+    background-color: blue;
+}
+.lista {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    text-align: left;
+    font-size: 25px;
+    color: brown;    
+
 }
